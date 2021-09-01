@@ -23,8 +23,8 @@ social:                Social
 links:                 Links
 links_icon:            'icon-link'
 pagination:            Pagination
-newer:                 Newer
-older:                 Older
+newer:                 Nuevos
+older:                 Antiguos
 forward:               Forward
 back:                  Back
 permalink:             Permalink
@@ -33,15 +33,15 @@ templates:             Templates (for web app)
 present:               present
 toc:                   Table of Contents
 note:                  Note
-description:           Description
-search:                Search
+description:           Descripción
+search:                Buscar
 search_placeholder:    Type something…
 
-loading:               Loading…
-redirecting:           Redirecting…
+loading:               Cargando…
+redirecting:           Redirigiendo…
 
 continue_reading:      >
-  Continue reading <!--post_title-->
+  Continua leyendo <!--post_title-->
 
 cookies_banner:
   text:                >
