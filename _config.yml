@@ -48,7 +48,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - Tutoriales: 
+  - title:              Tutoriales
+    url:                /tutoriales/
 #  - title:             Example
 #    url:               /example/
 #  - title:             Documentation
