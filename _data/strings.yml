@@ -11,7 +11,7 @@
 # Free version
 # ---------------------------------------------------------------------------------------
 home:                  Home
-pages:                 Paginas
+pages:                 Páginas
 posts:                 Posts
 about:                 Sobre mí
 related_posts:         Related Posts
@@ -49,18 +49,18 @@ cookies_banner:
   okay:                Ok, acepto las cookies
 
 not_found:
-  title:               '404: Pagina no encontrada'
+  title:               '404: Página no encontrada'
   message:             |
     Lo siento, esta web no existe, puede ser error nuestro. Pero ya que está aquí, le explico que es el error 404, ya que muchos no lo saben. Este error se produce cuando se intenta acceder a una parte de una web que no existe, ya sea porque la URL esté mal escrita o hay un error interno de la página.
-    <!--home_link--> intenta volver a acceder o revisa la URL.
-  home_link:           Head back home
+    <!--home_link--> e intenta volver a acceder o revisa la URL.
+  home_link:           Vuelve a la página principal
 
 offline:
   title:               'Estás sin conexión'
   message:             |
     Lo siento, pero estás sin conexión y esta página no está preparada para verse sin conexión.
-    <!--home_link--> intenta ir a otra página.
-  home_link:           Head back home
+    <!--home_link--> e intenta ir a otra página.
+  home_link:           Vuelve a la página principal
 
 error:
   title:               Error
