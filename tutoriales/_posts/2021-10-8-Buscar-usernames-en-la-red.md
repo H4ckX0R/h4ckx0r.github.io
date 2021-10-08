@@ -3,7 +3,6 @@ layout: post
 title: Buscar cuentas en redes sociales por el nombre.
 description: A veces queremos buscar información sobre alguien, ya sea por curiosidad o cualquier otro fin.
 hide_last_modified: true
-comments: true
 ---
 # Buscar cuentas en redes sociales por el nombre.
 
@@ -105,6 +104,4 @@ Si necesitais ayuda, con este comando os mostrará la ayuda del script:
 python3 sherlock.py -h
 ~~~
 
-**En el campo de busqueda solo podeis poner letrasy números, la mayoría de simbolos diferentes no los soporta**
-
-Si teneis algún problema o alguna duda siempre podeis dejarla en los comentarios.
+**En el campo de busqueda solo podeis poner letras y números, la mayoría de simbolos diferentes no los soporta**
