@@ -8,8 +8,8 @@ H4ckX0R:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-  Me llamo Natanael Gómez, tengo 15 años y me gusta el hacking ético y la informática.
-  He creado este blog para compartir lo que sé y cosas curiosas con los demás.
+    Me llamo Natanael Gómez, tengo 15 años y me gusta el hacking ético y la informática.
+    He creado este blog para compartir lo que sé y cosas curiosas con los demás.
 
   # This photo will be used in the about section
   picture:
