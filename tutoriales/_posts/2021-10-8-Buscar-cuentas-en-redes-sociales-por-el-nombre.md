@@ -66,7 +66,7 @@ Entramos en el github del proyecto a traves de este [enlace](https://github.com/
 Luego le damos a *"Code"* y luego a *"Download ZIP"* como se ve en la imagen.
 ![](https://raw.githubusercontent.com/H4ckX0R/h4ckx0r.github.io/master/tutoriales/Imagenes/Buscar-usernames-en-la-red/Descargarsherlockenwindows.png)
 
-Luego nos vamos a la carpeta donde lo hayamos descargado y extraemos el zip, a continuación entramos en la carpeta sherlock. En la parte superior hay un botón que pone *"Archivos"*, le damos y luego seleccionamos *"Abrir símbolo del sistema"* (No hace falta abrirlo como administrador).
+Luego nos vamos a la carpeta donde lo hayamos descargado y extraemos el zip, a continuación entramos en la carpeta sherlock. En la parte superior izquierda hay un botón que pone *"Archivos"*, le damos y luego seleccionamos *"Abrir Windows PowerShell"* (No hace falta abrirlo como administrador).
 
 Ahora en esa ventana negra que se os ha abierto poneis el siguiente comando:
 
@@ -84,7 +84,8 @@ Una vez termine ya se habrá instalado.
 ## Usando Sherlock.py
 
 Se usan igual tanto en Linux como en Windows, así que no creo que haya problema. 
-En Windows simplemente teneis que abrir el símbolo del sistema en la carpeta de sherlock como habeis hecho antes, **pero entrando nuevamente en la carpeta sherlock que hay dentro de la anterior, y estando ahí iniciais la terminal como antes**.
+En Windows simplemente teneis que abrir el Windows PowerShell en la carpeta de sherlock como habeis hecho antes, **pero entrando nuevamente en la carpeta sherlock que hay dentro de la anterior, y estando ahí iniciais la terminal como antes**.
+
 Y en Linux abrir la terminal con Ctrl+Alt+T (O el que tengamos configurado por defecto) y hacer:
 ~~~
 cd sherlock/sherlock
@@ -100,7 +101,7 @@ python3 sherlock.py nombreabuscar
 
 Podeis también buscar varios a la vez separandolos por espacios así:
 ~~~
-python3 sherlock.py nombreabuscar1 nombreabuscar2
+python3 sherlock.py nombreabuscar1 nombreabuscar2 nombreabuscar3
 ~~~
 
 Si necesitais ayuda, con este comando os mostrará la ayuda del script:
@@ -108,4 +109,5 @@ Si necesitais ayuda, con este comando os mostrará la ayuda del script:
 python3 sherlock.py -h
 ~~~
 
+**Es posible que algunas webs no sean correctas ya que es un sistema automatizado, pero suele ir bien. También puede ser que falten algunas webs**
 **En el campo de busqueda solo podeis poner letras y números, la mayoría de simbolos diferentes no los soporta**
