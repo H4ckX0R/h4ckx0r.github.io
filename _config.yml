@@ -95,7 +95,7 @@ accent_color:          rgb(73,182,117)
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(109,44,125)
+theme_color:           rgb(87,35,100)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
