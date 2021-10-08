@@ -11,13 +11,13 @@
 # Free version
 # ---------------------------------------------------------------------------------------
 home:                  Home
-pages:                 Pages
+pages:                 Paginas
 posts:                 Posts
-about:                 About
+about:                 Sobre mí
 related_posts:         Related Posts
-other_projects:        Other Projects
-comments:              Comments
-jump_to:               Jump to
+other_projects:        Otros Proyectos
+comments:              Comentarios
+jump_to:               Ir a
 navigation:            Navigation
 social:                Social
 links:                 Links
@@ -31,8 +31,8 @@ permalink:             Permalink
 permalink_icon:        'content-hash'
 templates:             Templates (for web app)
 present:               present
-toc:                   Table of Contents
-note:                  Note
+toc:                   Tabla de Contenidos
+note:                  Nota
 description:           Descripción
 search:                Buscar
 search_placeholder:    Type something…
@@ -49,23 +49,23 @@ cookies_banner:
   okay:                Ok, acepto las cookies
 
 not_found:
-  title:               '404: Page Not Found'
+  title:               '404: Pagina no encontrada'
   message:             |
-    Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
-    <!--home_link--> to try finding it again.
+    Lo siento, esta web no existe, puede ser error nuestro. Pero ya que está aquí, le explico que es el error 404, ya que muchos no lo saben. Este error se produce cuando se intenta acceder a una parte de una web que no existe, ya sea porque la URL esté mal escrita o hay un error interno de la página.
+    <!--home_link--> intenta volver a acceder o revisa la URL.
   home_link:           Head back home
 
 offline:
-  title:               'You are Offline'
+  title:               'Estás sin conexión'
   message:             |
-    Sorry, but you appear to be offline and this page has not been prepared for offline viewing.
-    <!--home_link--> to try finding another page.
+    Lo siento, pero estás sin conexión y esta página no está preparada para verse sin conexión.
+    <!--home_link--> intenta ir a otra página.
   home_link:           Head back home
 
 error:
   title:               Error
   message:             |
-    Sorry, an error occurred while loading <!--link-->.
+    Lo siento, ha ocurrido un error mientras se cargaba la página <!--link-->.
 
 # Separators
 # ---------------------------------------------------------------------------------------

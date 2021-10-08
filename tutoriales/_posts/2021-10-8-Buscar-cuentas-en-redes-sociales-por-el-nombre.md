@@ -17,7 +17,6 @@ Como es lógico, para usar esta herramienta hace falta tener Python instalado en
 ## Instalación de Python 3
 
 **Si ya lo teneis instalado** podeis saltaros este paso.
-
 ### Linux
 *Normalmente* en linux siempre viene instalado, pero si no lo teneis se puede instalar con el siguiente comando:
 ~~~
@@ -53,7 +52,6 @@ Esperais a que se instale y cuando termine le dais al botón que pone *"Close"*
 ## Descargando e instalando Sherlock.py
 
 Este proceso es muy sencillo pero es diferente en Linux y Windows.
-
 ### Descargando e instalando el repositorio en Linux.
 Solamente teneis que ejecutar estos tres comandos en la Terminal.
 Poneis:

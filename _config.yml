@@ -44,7 +44,7 @@ author:
   name:                <Natanael> <Gómez>
   email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             <H4ckXOR>
 
 # Add links to the sidebar.
 menu:
@@ -90,7 +90,7 @@ remote_theme: hydecorp/hydejack@v9.1.4
  
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          rgb(79,177,186)
+accent_color:          rgb(109,44,125)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
