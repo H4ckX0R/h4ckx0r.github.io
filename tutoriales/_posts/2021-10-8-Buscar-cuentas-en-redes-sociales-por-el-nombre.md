@@ -69,10 +69,14 @@ Luego le damos a *"Code"* y luego a *"Download ZIP"* como se ve en la imagen.
 Luego nos vamos a la carpeta donde lo hayamos descargado y extraemos el zip, a continuación entramos en la carpeta sherlock. En la parte superior hay un botón que pone *"Archivos"*, le damos y luego seleccionamos *"Abrir símbolo del sistema"* (No hace falta abrirlo como administrador).
 
 Ahora en esa ventana negra que se os ha abierto poneis el siguiente comando:
+Si usaste la primera forma de instalar Python, pon:
 ~~~
-pip3 install –r requirements.txt
+python3 -m pip install -r requirements.txt
 ~~~
-
+Y si usaste la segunda forma
+~~~
+python -m pip install -r requirements.txt
+~~~
 Una vez termine ya se habrá instalado.
 
 ## Usando Sherlock.py
