@@ -10,7 +10,7 @@ redirect_from:
   - /download/
 ---
 
-# Sobre mí
+# About
 
 <!--author-->
 
