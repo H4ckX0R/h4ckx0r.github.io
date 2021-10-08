@@ -6,9 +6,9 @@ hide_last_modified: true
 ---
 # Buscar cuentas en redes sociales por el nombre.
 
-### Esto no es ilegal, pero sin embargo puede molestarle al usuario a quien busquemos.
-
 Buscar cuentas de usuario de una persona no es nada ilegal ni puede acarrear consecuencias pero si puede ser molesto para el usuario que es buscado.
+
+### Esto no es ilegal, pero sin embargo puede molestarle al usuario a quien busquemos.
 
 La herramienta que vamos a usar es un script **programado en Python 3** cuya utilidad es buscar cuentas con el nombre que le demos en la red.
 El script se llama **Sherlock.py** y este es el github del proyecto [sherlock.py](https://github.com/sherlock-project/sherlock).
