@@ -3,7 +3,7 @@ layout: post
 title: Buscar cuentas en redes sociales por el nombre.
 description: A veces queremos buscar información sobre alguien, ya sea por curiosidad o cualquier otro fin.
 hide_last_modified: true
-comments: true
+comments: false
 ---
 # Buscar cuentas en redes sociales por el nombre.
 
