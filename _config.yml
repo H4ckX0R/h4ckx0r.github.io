@@ -17,7 +17,7 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  es
+lang:                  es-es
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 "Web de {H4ckX0R}"
@@ -37,6 +37,9 @@ keywords:              [H4ckX0R, hackxor, h4ckx0r]
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  /assets/img/logo.png
+
+# Esto lo he puesto yo:
+favicon: /favicon.ico
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
