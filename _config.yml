@@ -39,7 +39,7 @@ keywords:              [H4ckX0R, hackxor, h4ckx0r]
 logo:                  /assets/img/logo.png
 
 # Esto lo he puesto yo:
-favicon: /favicon.ico
+favicon: /assests/img/favicon.ico
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
