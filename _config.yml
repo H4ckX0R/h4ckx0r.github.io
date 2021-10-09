@@ -38,9 +38,6 @@ keywords:              [H4ckX0R, hackxor, h4ckx0r]
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  /assets/img/logo.png
 
-# Esto lo he puesto yo:
-favicon: /assests/img/favicon.ico
-
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
