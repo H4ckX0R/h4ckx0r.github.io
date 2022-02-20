@@ -208,5 +208,5 @@ download:
   icon: icon-box-add
 discord:
   name: Discord
-  icon: https://raw.githubusercontent.com/H4ckX0R/h4ckx0r.github.io/master/assets/icons/discord-brands.svg
+  icon: "https://raw.githubusercontent.com/H4ckX0R/h4ckx0r.github.io/master/assets/icons/discord-brands.svg"
   prepend: "https://discord.gg/"
