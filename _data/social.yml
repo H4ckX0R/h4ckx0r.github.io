@@ -206,3 +206,7 @@ keybase:
 download:
   name: Download
   icon: icon-box-add
+discord:
+  name: Discord
+  icon: icon-discord
+  prepend: "https://discord.gg/"
