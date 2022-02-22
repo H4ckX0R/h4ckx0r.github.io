@@ -10,9 +10,7 @@ comments: false
 No Sleep es un plugin que he programado y pienso seguir mejorando con la intención de ayudar a gestionar las camas en servidores SMP.
 
 ### Versión más reciente: 1.1.0
-
-### Links de descarga
-
+### [Links de descarga](https://h4ckx0r.github.io/plugins/2022-02-12-ES-No-Sleep/#changelog)
 
 ## Funcionamiento
 
@@ -39,7 +37,7 @@ Otra forma es que el jugador que las ha bloqueado, se salga del servidor, esto t
 
 En el caso de que se quieran desbloquear las camas y el jugador que las ha bloqueado esté AFK o las haya bloqueado para molestar al resto del servidor, estas se pueden desbloquear por votación.
 
-Para ello, los jugadores que quieran desbloquear las camas, deben poner `/nodormir`. Al poner este comando, por defecto calcula el [50%](https://h4ckx0r.github.io/plugins/es) de los jugadores en el servidor, (sin contar al jugador que ha ejecutado el comando) y redondea ese porcentaje, una vez tiene el porcentaje, dice cuantos jugadores quedan por votar para que se desbloqueen las camas por votación.
+Para ello, los jugadores que quieran desbloquear las camas, deben poner `/nodormir`. Al poner este comando, por defecto calcula el [50%](https://h4ckx0r.github.io/plugins/2022-02-12-ES-No-Sleep/#pr%C3%B3ximamente) de los jugadores en el servidor, (sin contar al jugador que ha ejecutado el comando) y redondea ese porcentaje, una vez tiene el porcentaje, dice cuantos jugadores quedan por votar para que se desbloqueen las camas por votación.
 
 Cada jugador solo puede votar 1 vez, en el caso de que intente votar varias veces, el servidor le avisará con un mensaje de que ya ha votado.
 
