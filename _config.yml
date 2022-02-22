@@ -51,7 +51,7 @@ menu:
   - title:             Tutoriales
     url:               /tutoriales/
   - title:             Spigot Plugins
-    url:               /plugins/es/
+    url:               /spigot-plugins/es/
 #  - title:             Documentation
 #    url:               /docs/
 #  - title:             About
@@ -263,7 +263,7 @@ hydejack:
   hide_dates:          false
 
   # TODO
-  hide_last_modified:  false
+  hide_last_modified:  true
 
   # Note that dark mode only works in the PRO version of Hydejack.
   dark_mode:
