@@ -70,11 +70,11 @@ error:
 # Separators
 # ---------------------------------------------------------------------------------------
 posted:                'Posted'
-last_modified_at:      'Last modified at'
+last_modified_at:      'Última modificación el'
 last_modified_at_icon: 'icon-history'
 colon:                 ':'
 separator:             '|'
-category_start:        'in '
+category_start:        'en '
 category_spearator:    ' / '
 tag_start:             'on '
 tag_separator:         ', '
